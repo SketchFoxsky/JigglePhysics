@@ -2505,6 +2505,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5119137500375318447, guid: 821755141bcd38f83ad9f8b684e086e1, type: 3}
+      propertyPath: debugDraw
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6988777920009514149, guid: 821755141bcd38f83ad9f8b684e086e1, type: 3}
       propertyPath: m_Name
       value: JigglePhysicsUpdater
