@@ -480,7 +480,7 @@ MonoBehaviour:
       collisionToggle: 0
       angleLimitToggle: 0
       stiffness:
-        value: 0.562
+        value: 0.396
         curveEnabled: 0
         curve:
           serializedVersion: 2
@@ -565,7 +565,7 @@ MonoBehaviour:
           m_PostInfinity: 2
           m_RotationOrder: 4
       drag:
-        value: 0.059
+        value: 0.357
         curveEnabled: 0
         curve:
           serializedVersion: 2
